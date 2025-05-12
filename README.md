@@ -109,7 +109,7 @@ This project is for educational use only. Dataset is synthetic and privately gen
 
 ## 📬 Contact
 
-**Johnson G**  
+**Janani .V **  
 Dept. of AI & DS, Christ The King Engineering College  
-📧 johnsonmosa755@gmail.com 
+📧 jananisan522@gmail.com 
 📍 Tamil Nadu, India
